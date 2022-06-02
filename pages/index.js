@@ -8,7 +8,6 @@ import ResultContainer from "../components/ResultContainer";
 export default function Home() {
     return (
         <div>
-
             <Layout>
                 <FormContainer/>
                 <ResultContainer/>
